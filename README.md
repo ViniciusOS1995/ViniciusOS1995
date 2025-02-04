@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ViniciusOS1995;
 - 👀 I’m interested in Java, Spring Boot;
-- 🌱 I’m currently learning Object-oriented programming;
 - 📫 How to reach me santanaavinicius@gmail.com;
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Motorsport and my wife ;
